@@ -419,7 +419,7 @@ def main():
         - **GitHub**: [PranayDhore](https://github.com/)
         - **LinkedIn**: [Pranay Dhore](https://linkedin.com/in/)
         - **Instagram**: [@pranay_dhore](https://instagram.com/)
-        - **Email**: pranay.dhore@example.com
+        - **Email**: pranay.dhore@gmail.com
         """, unsafe_allow_html=True)
 
         st.write("📌 Feel free to reach out for collaborations and projects! 🚀")
