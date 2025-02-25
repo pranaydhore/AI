@@ -213,7 +213,7 @@ def main():
         
         with col1:
             age = display_input('Age (years)', 'Enter age of the person', 'age', 0.0, 120.0, 'number')
-            sex = display_input('Sex (1=male; 0=female)', 'Enter sex of the person', 'sex', 0.0, 1.0, 'number')
+            sex = display_input('Gender (1=male; 0=female)', 'Enter Gender of the person', 'sex', 0.0, 1.0, 'number')
             cp = display_input('Chest Pain Type (0-3)', 'Enter chest pain type', 'cp', 0.0, 3.0, 'number')
             trestbps = display_input('Resting Blood Pressure (mmHg)', 'Enter resting blood pressure', 'trestbps', 0.0, 250.0, 'number')
             chol = display_input('Serum Cholesterol (mg/dL)', 'Enter serum cholesterol', 'chol', 0.0, 600.0, 'number')
